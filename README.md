@@ -1,7 +1,8 @@
 µ - Microbe - 0.4.13
 ====================
 
-[![Join the chat at https://gitter.im/sociomantic/microbe](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/sociomantic/microbe?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![Microbe build status](https://travis-ci.org/sociomantic/microbe.svg)](https://travis-ci.org)  [![Slack Status](https://microbejs-slackin.herokuapp.com/badge.svg)](https://microbejs-slackin.herokuapp.com)
+
 
 microbe is a javascript library to aid in DOM manipulation as well as facilitating events, object observation, and data binding. It uses the micro character ( µ ) that is accessible in:
 
@@ -134,10 +135,18 @@ Need to report something? [report@m.icro.be](report@m.icro.be)
 Change log
 ==========
 
+#### 0.4.13
+
++ added travi-ci testing
++ added nightmare command line testing
++ removed gitter
+
+
 #### 0.4.12
 
 + added appendTo and prependTo
 + aliased each to forEach for array compatability
++ added slack community to readme and www
 
 
 #### 0.4.11
